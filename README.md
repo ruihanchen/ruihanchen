@@ -10,7 +10,7 @@
 
 - 🔭 &nbsp; I’m currently learning Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduate from UC Berkeley majoring in Data Science(B.A).
+- 🎓 &nbsp; Graduated from UC Berkeley majoring in Data Science(B.A).
 - 💼 &nbsp; Fullstack developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
