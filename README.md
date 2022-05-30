@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-ruihanchen@berkeley.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruihanchen@berkeley.edu)
 [![Blog](https://img.shields.io/badge/-https://github.com/ruihanchen-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/ruihanchen)
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="center" alt="GIF" src="https://github.com/ruihanchen/ruihanchen/blob/main/gif3.gif" width="500"/>
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
