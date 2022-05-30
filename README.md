@@ -7,8 +7,6 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/> -->
-
 - 🔭 &nbsp;Always learning new things` and I love using Software as a solution for every `Problem`.
 - 🤔 &nbsp;`Exploring new technologies` and `developing software solutions and quick hacks`.
 - 🎓 &nbsp;Graduated from `UC Berkeley`, majoring in `Data Science(B.A)`.
