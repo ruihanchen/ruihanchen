@@ -69,15 +69,15 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=plastic&logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900.svg?&style=plastic&logo=amazonaws&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
+    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Geeks for Geeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
