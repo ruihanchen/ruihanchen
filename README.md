@@ -9,11 +9,11 @@
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/> -->
 
-- 🔭 &nbsp;Always `learning new things` and I love using Software as a solution for every `Problem`.
-- 🤔 &nbsp;Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp;Always learning new things` and I love using Software as a solution for every `Problem`.
+- 🤔 &nbsp;`Exploring new technologies` and `developing software solutions and quick hacks`.
 - 🎓 &nbsp;Graduated from `UC Berkeley`, majoring in `Data Science(B.A)`.
 - 💻 &nbsp;I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- 🌱 &nbsp;Enthusiast in Cyber Security and Artificial Intelligence .
+- 🌱 &nbsp;Enthusiast in `Cyber Security` and `Artificial Intelligence`.
 - ☕ &nbsp;I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ## 🛠️ My Skills
