@@ -1,11 +1,11 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ruihan Chen.
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50> I'm Ruihan Chen.
 [![Linkedin](https://img.shields.io/badge/-ruihanchen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruihanchen/)
 [![Gmail](https://img.shields.io/badge/-ruihanchen@berkeley.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruihanchen@berkeley.edu)
 [![Blog](https://img.shields.io/badge/-https://github.com/ruihanchen-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/ruihanchen)
 
 <img align="center" alt="GIF" src="https://github.com/ruihanchen/ruihanchen/blob/main/gif3.gif" width="500"/>
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50>  About me
 
 - 🔭 &nbsp;Always learning new things` and I love using Software as a solution for every `Problem`.
 - 🤔 &nbsp;`Exploring new technologies` and `developing software solutions and quick hacks`.
