@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=50> I'm Ruihan Chen.
+# Hello! <img src="https://github.com/ruihanchen/ruihanchen/blob/main/wave.gif" width=50> I'm Ruihan Chen.
 [![Linkedin](https://img.shields.io/badge/-ruihanchen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruihanchen/)
 [![Gmail](https://img.shields.io/badge/-ruihanchen@berkeley.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruihanchen@berkeley.edu)
 [![Blog](https://img.shields.io/badge/-https://github.com/ruihanchen-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/ruihanchen)
