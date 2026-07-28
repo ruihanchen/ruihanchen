@@ -15,6 +15,14 @@ then measure whether I was right.
 Java · Spring Boot · Python · PostgreSQL · Redis · React · TypeScript · Docker
  
 ---
+
+**[QueryPilot](https://github.com/ruihanchen/QueryPilot)** — Text-to-SQL over
+Postgres that turned into a project about the dependency instead. Skipped
+self-consistency after measuring what it would catch: at temperature 0 the SQL
+comes back identical, and the failure that actually bites was in all three
+samples. Sampling can't catch a mistake every sample shares. The model wrote
+`DELETE FROM restaurants` early on; a foreign key was the only reason the data
+survived.
  
 **[TicketFlow](https://github.com/ruihanchen/TicketFlow)** — Flash-sale
 backend, started after the 2022 Ticketmaster meltdown. Rewrote the inventory
